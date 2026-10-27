@@ -1,0 +1,27 @@
+{
+  "is_demo": true,
+  "project": "Example Company",
+  "topic": "Example category",
+  "created_at": "2026-10-27",
+  "market": "Germany",
+  "language": "de",
+  "device": "mobile",
+  "data_sources": [],
+  "clusters": [
+    {
+      "id": "C-001",
+      "primary_keyword": "example keyword",
+      "intent": "commercial",
+      "content_type": "category",
+      "rationale": "Illustrative only; real SERP data required before approval.",
+      "keywords": [
+        "variant example"
+      ],
+      "evidence": [
+        "Demo evidence placeholder — NOT real SERP data"
+      ],
+      "priority": "review",
+      "decision": "pending"
+    }
+  ]
+}
