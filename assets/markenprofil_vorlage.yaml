@@ -1,0 +1,12 @@
+# Template only. Store filled profiles in your own private project space.
+projekt: ""
+typ: "onlineshop-oder-firmenwebsite"
+webseite: ""
+zielmarkt: "DE"
+sprache: "de"
+zielgruppe: ""
+tonalitaet: ""
+verifizierte_quellen: []
+verbotene_claims: []
+wichtige_interne_urls: []
+gsc_property: ""
