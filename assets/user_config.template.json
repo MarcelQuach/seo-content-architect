@@ -1,0 +1,34 @@
+{
+  "project_name": "",
+  "project_type": "shop_or_company",
+  "domain": "",
+  "target_country": "DE",
+  "language": "de",
+  "storage": {
+    "provider": "local_or_google_drive",
+    "folder_id": "",
+    "authorized": false
+  },
+  "integrations": {
+    "ahrefs": {
+      "status": "unverified"
+    },
+    "dataforseo": {
+      "status": "unverified",
+      "monthly_budget_usd": null
+    },
+    "google_search_console": {
+      "status": "unverified"
+    },
+    "google_keyword_planner": {
+      "status": "unverified"
+    },
+    "undetectable_ai": {
+      "mode": "manual_only"
+    }
+  },
+  "publishing": {
+    "user_approval_required": true
+  },
+  "notes": "Do not commit filled configuration with secrets or client data"
+}
